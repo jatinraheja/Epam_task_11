@@ -1,0 +1,64 @@
+.input-container
+   {
+		display : inline-flex;
+	}
+	.buttonstyle
+	{
+		text-align : center;
+		border-radius : 10px;
+		background-color : DodgerBlue;
+		color: white;
+		width : 100%;
+		padding : 10px 10px;
+		margin-top : 15px;
+		border:none;
+		font-size: 2 rem;
+	}
+	.buttonstyle2
+	{
+		text-align : center;
+		border-radius : 10px;
+		background-color : Blue;
+		color: white;
+		width : 100%;
+		padding : 10px 10px;
+		margin-top : 20px;
+		border:none;
+		font-size: 2 rem;
+	}
+	.buttonstyle3
+	{
+		text-align : center;
+		border-radius : 10px;
+		background-color : Red;
+		color: white;
+		width : 100%;
+		padding : 10px 10px;
+		margin-top : 10px;
+		border:none;
+		font-size: 2 rem;
+	}
+	.buttonstyle4
+	{
+		text-align : center;
+		border-radius : 10px;
+		background-color : #ADFF2F;
+		color: white;
+		width : 100%;
+		padding : 10px 10px;
+		margin-top : 40px;
+		border:none;
+		font-size: 2 rem;
+	}
+	.input-icon i
+	{
+		position:absolute;
+	}
+	.input-icon
+	{
+		width : 100%;
+	}
+	.icon
+	{
+		padding : 40px;
+	}
